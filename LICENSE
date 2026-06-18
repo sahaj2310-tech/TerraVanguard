@@ -1,0 +1,48 @@
+TerraVanguard License (View-Only, No-Modification)
+Copyright (c) 2025 Sahaj Sinha. All rights reserved.
+
+This software and its accompanying documentation (the "Work") are made publicly
+available for reference, evaluation, and educational study only. By accessing the
+Work you agree to the following terms.
+
+1. GRANT
+   You are granted a limited, non-exclusive, non-transferable, revocable license
+   to view, read, and run the Work for personal, non-commercial, educational
+   purposes only.
+
+2. NO MODIFICATION
+   You may NOT modify, adapt, translate, or create derivative works based on the
+   Work, in whole or in part.
+
+3. NO REDISTRIBUTION
+   You may NOT copy, publish, sublicense, sell, rent, or otherwise redistribute
+   the Work or any portion of it, in original or modified form, by any means or
+   medium, without the prior written permission of the copyright holder.
+
+4. NO COMMERCIAL USE
+   You may NOT use the Work, in whole or in part, for any commercial purpose
+   without the prior written permission of the copyright holder.
+
+5. ATTRIBUTION
+   Any permitted reference to the Work must retain this license and the copyright
+   notice above, and must credit the original author.
+
+6. THIRD-PARTY COMPONENTS
+   The Work depends on third-party libraries and platforms (e.g., the Arduino core,
+   the ESP32 SDK, and the sensor/servo/camera libraries listed in the
+   documentation). Those components remain governed by their own respective
+   licenses and are not covered by this license.
+
+7. NO WARRANTY
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+   IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+8. TERMINATION
+   Any breach of these terms automatically terminates the rights granted to you
+   under this license.
+
+For permissions beyond the scope of this license, contact the copyright holder.

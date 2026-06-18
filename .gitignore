@@ -1,0 +1,25 @@
+# Arduino / PlatformIO build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino IDE local config
+*.bak
+sketch.json.bak
+
+# Local secrets — keep Wi-Fi credentials out of version control
+secrets.h
+arduino_secrets.h
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*~
