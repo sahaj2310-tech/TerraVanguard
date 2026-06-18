@@ -1,5 +1,10 @@
 # TerraVanguard
 
+![License: Source-Available (No-Modify)](https://img.shields.io/badge/License-Source--Available%20(No--Modify)-blue)
+![Platform: ESP32-S3](https://img.shields.io/badge/Platform-ESP32--S3-orange)
+![Framework: Arduino](https://img.shields.io/badge/Framework-Arduino-00979D?logo=arduino&logoColor=white)
+![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+
 An autonomous terrain-exploration rover built on the **ESP32-S3**. TerraVanguard
 combines differential drive, multi-sensor obstacle avoidance, a gyro-stabilized
 camera gimbal, environmental sensing, and a live Wi-Fi video stream — all running
