@@ -4,6 +4,19 @@
 ![Platform: ESP32-S3](https://img.shields.io/badge/Platform-ESP32--S3-orange)
 ![Framework: Arduino](https://img.shields.io/badge/Framework-Arduino-00979D?logo=arduino&logoColor=white)
 ![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Top language](https://img.shields.io/github/languages/top/sahaj2310-tech/TerraVanguard)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
+![PRs: not accepted](https://img.shields.io/badge/PRs-not%20accepted-red)
+
+![Stars](https://img.shields.io/github/stars/sahaj2310-tech/TerraVanguard?style=social)
+![Forks](https://img.shields.io/github/forks/sahaj2310-tech/TerraVanguard?style=social)
+![Last commit](https://img.shields.io/github/last-commit/sahaj2310-tech/TerraVanguard)
+![Repo size](https://img.shields.io/github/repo-size/sahaj2310-tech/TerraVanguard)
+![Code size](https://img.shields.io/github/languages/code-size/sahaj2310-tech/TerraVanguard)
+
+![Sensors: MPU9250 | DHT11 | HC-SR04](https://img.shields.io/badge/Sensors-MPU9250%20%7C%20DHT11%20%7C%20HC--SR04-informational)
+![Motor: L298N](https://img.shields.io/badge/Motor-L298N-informational)
+![Camera: OV2640](https://img.shields.io/badge/Camera-OV2640-informational)
 
 An autonomous terrain-exploration rover built on the **ESP32-S3**. TerraVanguard
 combines differential drive, multi-sensor obstacle avoidance, a gyro-stabilized
